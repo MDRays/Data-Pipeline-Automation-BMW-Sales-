@@ -43,6 +43,8 @@ The pipeline is defined in `P2M3_raihan_alfain_DAG.py` and executes the followin
 * Ingests the transformed data into a dedicated collection, validating the successful insertion of documents.
 * Optimized for handling large-scale document storage (150K+ records).
 
+![P2M3_Raihan_Alfain_screenshot_mongo](https://github.com/user-attachments/assets/c0f86c23-bc06-4c94-af29-316e43042d3d)
+
 ---
 
 ## **How to Run**
