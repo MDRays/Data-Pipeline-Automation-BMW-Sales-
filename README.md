@@ -25,6 +25,7 @@ This project focuses on building an **Automated ETL (Extract, Transform, Load) P
 ## **The Pipeline Architecture**
 
 The pipeline is defined in `P2M3_raihan_alfain_DAG.py` and executes the following sequential tasks:
+![P2M3_Raihan_Alfain_DAG_graph](https://github.com/user-attachments/assets/305091cf-9882-4857-8772-f1d8d87469e3)
 
 ### **1. Extraction (`extract.py`)**
 * Reads the raw dataset `P2M3_Raihan_Alfain_data_raw.csv` containing historical BMW sales data (2010-2024).
